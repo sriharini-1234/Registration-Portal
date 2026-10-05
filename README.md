@@ -1,6 +1,6 @@
-﻿# RegPortal
+﻿# Registration Portal
 
-RegPortal is a beginner-friendly React + Vite project for user registration, login, and dashboard management. It shows how a simple frontend app connects pages, validation, storage, and dashboard logic in one clear flow.
+Registration Portal is a beginner-friendly React + Vite project for user registration, login, and dashboard management. It shows how a simple frontend app connects pages, validation, storage, and dashboard logic in one clear flow.
 
 ## Project Purpose
 This app is designed to help beginners understand:
